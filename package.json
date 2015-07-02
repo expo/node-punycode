@@ -1,0 +1,26 @@
+{
+  "name": "@exponent/punycode",
+  "version": "1.0.0",
+  "description": "A copy of io.js's punycode module",
+  "main": "punycode.js",
+  "files": [
+    "punycode.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentjs/node-punycode.git"
+  },
+  "keywords": [
+    "punycode",
+    "react-native"
+  ],
+  "author": "io.js contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exponentjs/node-punycode/issues"
+  },
+  "homepage": "https://github.com/exponentjs/node-punycode#readme"
+}
